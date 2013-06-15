@@ -1,2 +1,5 @@
 Hello Go - World !!!
 This works great.
+good
+nice
+fantastic
